@@ -1,0 +1,12 @@
+{
+    "name": "extra_saver",
+    "require": {
+        "php" : ">=7"
+    },
+    "autoload" : {
+        "psr-4" : {
+          "ES\\" : "src/"
+        }
+    }
+}
+
